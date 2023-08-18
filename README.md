@@ -1,4 +1,4 @@
-# Course-ThiGiacMayTinh
+# Course- Thị giác máy tính
 Chưa mã nguồn trong môn học thị giác máy tính lớp 21TD111 - ngành tự động hóa
 ## Phần 1: Ngôn ngữ lập trình Python Cơ bản
 - 1.1. Kiểu dữ liệu, biến và ép kiểu

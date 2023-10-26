@@ -1,0 +1,3 @@
+d://negative//1.jpg
+d://negative//2.jpg
+d://negative//3.jpg
